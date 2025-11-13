@@ -16,9 +16,9 @@ public class App {
     }
 
     // Uncomment after adding Gson:
-    // static class Msg {
-    //     String message;
-    //     Msg(String m) { this.message = m; }
-    // }
+     static class Msg {
+         String message;
+         Msg(String m) { this.message = m; }
+     }
 }
   
